@@ -1,0 +1,15 @@
+Flask-Celery
+Flask-Classy
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-OpenID
+Flask-SQLAlchemy
+Flask-Testing
+Flask-Uploads
+Flask-WTF
+Flask-RESTful
+flask
+sqlalchemy-migrate
+flask-babel
+coverage
