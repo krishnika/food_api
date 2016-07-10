@@ -13,3 +13,4 @@ flask
 sqlalchemy-migrate
 flask-babel
 coverage
+alembic
